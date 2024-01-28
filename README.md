@@ -38,13 +38,13 @@
   
 ## 핵심기능 시연 ##
 
-| 로그인                                                                                                                             | 로그아웃                                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/cefae975-eba8-4128-b1bf-d804b8fdf983" height="350" margin-left="100px"> | <img src="https://github.com/wkd6262/Back2/assets/142865132/00ec6b52-ef98-447a-aa9e-887f182d93fa" width="350"> |
-| 피드                                                                                                                               | 검색                                                                                                           |
-| <img src="https://github.com/13ook/13ook/assets/142865132/48ef9e93-5e63-46e1-b51e-94ab10d2bbac" width="350">                       | <img src="https://github.com/13ook/13ook/assets/142865132/e35289f5-ab5e-4143-86d3-978995fd67cf" width="350">   |
-| 책방                                                                                                                               | 내 서재                                                                                                        |
-| <img src="https://github.com/13ook/13ook/assets/142865132/f3fb2d39-e728-45d3-98dc-37622db0c16b" width="350">                       | <img src="https://github.com/13ook/13ook/assets/142865132/9c7ad68b-3d9c-425d-b505-77794135788a" width="350">   |
+| 로그인                                                                                                          | 로그아웃                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/wkd6262/Back2/assets/142865132/cefae975-eba8-4128-b1bf-d804b8fdf983" width="350" > | <img src="https://github.com/wkd6262/Back2/assets/142865132/00ec6b52-ef98-447a-aa9e-887f182d93fa" width="350"> |
+| 피드                                                                                                            | 검색                                                                                                           |
+| <img src="https://github.com/13ook/13ook/assets/142865132/48ef9e93-5e63-46e1-b51e-94ab10d2bbac" width="350">    | <img src="https://github.com/13ook/13ook/assets/142865132/e35289f5-ab5e-4143-86d3-978995fd67cf" width="350">   |
+| 책방                                                                                                            | 내 서재                                                                                                        |
+| <img src="https://github.com/13ook/13ook/assets/142865132/f3fb2d39-e728-45d3-98dc-37622db0c16b" width="350">    | <img src="https://github.com/13ook/13ook/assets/142865132/9c7ad68b-3d9c-425d-b505-77794135788a" width="350">   |
 
 </div>
 
