@@ -38,7 +38,8 @@
 
 ### - 디렉토리 구조
 
-<img width="50%" alt="디렉토리 구조" src="https://github.com/wkd6262/wkd6262/assets/142865132/244e2c29-6ef6-4e8f-8e35-d45179ad0b9d">
+<img width="60%" align="center" alt="디렉토리 구조" src="https://github.com/wkd6262/wkd6262/assets/142865132/cf88c208-3baf-4cab-a9a9-0a6e8c6cfd96">
+
 
 
 <div align="center">
