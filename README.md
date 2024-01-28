@@ -93,6 +93,105 @@
 
 <br/>
 
+### 3️⃣ 데이터 로드 렉 발생
+
+| 문제 상황                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| X 1000개의 데이터를 11페이지로 받아 총 11000개의 데이터를 동시에 받아와 처음 로딩 시 많은 렉이 걸리게 됨.                                      |
+| ✓ 초기 값은 내 현재 위치 주변 화장실이 나오도록 설정, 검색어를 입력하면 해당 위치에 정보만 뜨게 설정 ex) 수원 → 수원화장실. 데이터 과부화 해결 |
+
+```javascript
+// 거리 계산 함수
+const calculateDistance = (lat1, lon1, lat2, lon2) => {
+  const R = 6371;
+  const dLat = toRadians(lat2 - lat1);
+  const dLon = toRadians(lon2 - lon1);
+  const a =
+    Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+    Math.cos(toRadians(lat1)) *
+      Math.cos(toRadians(lat2)) *
+      Math.sin(dLon / 2) *
+      Math.sin(dLon / 2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+  const distance = R * c;
+
+  return distance;
+};
+
+// 각도를 라디안으로 변환하는 함수
+const toRadians = (angle) => {
+  return (angle * Math.PI) / 180;
+};
+
+// 주변 화장실을 찾는 함수
+const findNearbyToilets = () => {
+  if (userLocation) {
+    const radius = 1.3;
+    const nearbyToilets = toilets
+      .map((toilet) => ({
+        ...toilet,
+        distance: calculateDistance(
+          userLocation.latitude,
+          userLocation.longitude,
+          toilet.REFINE_WGS84_LAT,
+          toilet.REFINE_WGS84_LOGT
+        ),
+      }))
+      .filter((toilet) => toilet.distance <= radius)
+      .sort((a, b) => a.distance - b.distance);
+
+    return nearbyToilets;
+  }
+  return [];
+};
+
+// 데이터 필터링 함수
+const filterData = () => {
+  const searchTerm = inputRef.current.value.toLowerCase().trim();
+
+  if (searchTerm === "") {
+    const sortedToilets = [...toilets].sort((a, b) => {
+      const distanceA = userLocation
+        ? calculateDistance(
+            userLocation.latitude,
+            userLocation.longitude,
+            a.REFINE_WGS84_LAT,
+            a.REFINE_WGS84_LOGT
+          )
+        : 0;
+
+      const distanceB = userLocation
+        ? calculateDistance(
+            userLocation.latitude,
+            userLocation.longitude,
+            b.REFINE_WGS84_LAT,
+            b.REFINE_WGS84_LOGT
+          )
+        : 0;
+
+      return distanceA - distanceB;
+    });
+
+    setFilteredToilets(findNearbyToilets());
+    setVisibleResults(0);
+
+    return;
+  }
+};
+```
+
+<br />
+
+### 4️⃣ 데이터 출력 1000개 제한
+
+| 문제 상황                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/wkd6262/Back2/assets/142865132/38a8221f-7d4f-4254-9e80-fae42b1fc200" width="500" align="center"> |
+| X 데이터 출력은 되었으나 1개의 데이터 페이지당 1000개 출력 제한 발생.                                                         |
+| ✓ 데이터 페이지가 총 11개인데 forEach를 이용하여 배열로 서버 데이터 추출.                                                     |
+
+<br/>
+
 ## 3. 기술 및 개발 환경
 
 <h4>⚙️  사용 기술</h4>
