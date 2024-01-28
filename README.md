@@ -38,6 +38,19 @@
 
 ### - 디렉토리 구조
 
+- back, front로 나눠서 작업
+
+#### - back
+      - controller를 이용해 서버를 모듈화 하여 간편하게 사용
+      - env를 이용해 중요한 내용을 암호화 하여 해킹 방지
+      
+#### - front
+      - login,page,style 3가지로 분리하여 작업
+      - app.js에 컴포넌트를 삽입
+      - react-router-dom 을 사용하여 SPA 형식으로 서버 페이지 생성
+      - .module css를 이용해 css겹침 방지 및 간편하게 작업
+      - minireset을 사용해 css를 더 간편하게 적용
+
 <img width="60%" align="center" alt="디렉토리 구조" src="https://github.com/wkd6262/wkd6262/assets/142865132/cf88c208-3baf-4cab-a9a9-0a6e8c6cfd96">
 
 
