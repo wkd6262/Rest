@@ -22,9 +22,12 @@
 
 ### - 사전조사
 
-| 급해 ui/ux 기능 참고                                                                                  | PooPee ui/ux ,기능 참고                                                                           |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| ![Untitled (1)](https://github.com/13ook/13ook/assets/142865132/1b29fc9e-adfa-4db3-bf86-22557359d777) | ![Untitled](https://github.com/13ook/13ook/assets/142865132/2ab59fb2-256a-46d0-ad90-361da5511942) |
+| 급해 ui/ux 기능 참고 | PooPee ui/ux ,기능 참고 |
+| -------------------- | ----------------------- |
+
+| ![IMG_9961](https://github.com/wkd6262/Back2/assets/142865132/b5595fa9-e6d7-4d33-94a4-073af09b9b51)
+![IMG_9962](https://github.com/wkd6262/Back2/assets/142865132/b40dd1f7-53a0-49e5-bf00-2a02e8565a4f) | ![IMG_9963](https://github.com/wkd6262/Back2/assets/142865132/528f236a-b1f2-4a13-a4c9-186050a65bf9)
+![IMG_9964](https://github.com/wkd6262/Back2/assets/142865132/51c8d1ce-8c1c-40b1-a2f8-8cd5d1d1d0aa) |
 
 ### - 고려사항
 
