@@ -367,5 +367,4 @@ const filterData = () => {
   <br>
 
 ### [✨프로젝트 바로가기](https://port-0-back2-5r422alqn1n0hw.sel4.cloudtype.app/)(매일 새벽 5시에 서버가 꺼짐.)
-  id= admin
-  pw= admin
+  id= admin pw= admin
