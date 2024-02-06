@@ -177,8 +177,8 @@
 
 | 문제 상황                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/f5712fc7-8ebe-4973-b019-7f63c3d6b335" width="500" align="center"> |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/bccfcdff-42ae-4841-8e0b-d4919633b785" width="500" align="center"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/c523fb9d-a973-4914-bdfa-2c93c064f38d" width="500" align="center"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/2672da29-ccab-4b14-b6ca-12b17e93b32f" width="500" align="center"> |
 | X 데이터 출력은 되었으니 .map으로 출력을 하려고 해도 어느 문제인지 자꾸 출력이 안 되는 점 발생                                |
 | ✓ 출력 되는 key 값을 div를 사용해서 전체 값으로 출력이 되었음, ul li(key)를 이용하여 해결. (이런 단순한 실수는 줄이기)        |
 
@@ -188,7 +188,7 @@
 
 | 문제 상황                                                                                                                     |
 | ----------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/38a8221f-7d4f-4254-9e80-fae42b1fc200" width="500" align="center"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/e3ebf452-a6c4-4854-88d5-79af3caf8155" width="500" align="center"> |
 | X 데이터 출력은 되었으나 1개의 데이터 페이지당 1000개 출력 제한 발생.                                                         |
 | ✓ 데이터 페이지가 총 11개인데 forEach를 이용하여 배열로 서버 데이터 추출.                                                     |
 
@@ -287,7 +287,7 @@ const filterData = () => {
 
 | 문제 상황                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/92abc917-f3be-47d5-b035-39319235ab5e" width="500" align="center">                                              |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/7225eac2-c8e2-4909-8510-bead4220cf7a" width="500" align="center">                                              |
 | X 몽고DB 저장된 값을 삭제하는 삭제버튼의 기능이 안됨.                                                                                                                      |
 | ✓ TypeError: Class constructor ObjectId cannot be invoked without 'new' 이 오류는 MongoDB에서 사용하는 ObjectId 클래스를 인스턴스화할 때 new 키워드를 사용하지 않아서 발생 |
 
@@ -297,9 +297,9 @@ const filterData = () => {
 
 | 문제 상황                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/b9ed823b-386d-4f55-b006-5688852515f2" width="500" align="center">                                  |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/1feb7682-3429-45b2-a166-f83e10b77cdb" width="500" align="center">                                  |
 | X 이 코드를 restSaveController.js / express서버에 중복으로 2개를 넣어놔서포트가 겹쳐 몽고DB두 번 실행이 되어 겹침으로 인해 1개가 되면 1개가 안 되는 오류가발생 |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/8bfe9856-fd01-4ca7-ba26-daaeb77fdd1e" width="500" align="center">                                  |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/53768c44-d375-47be-a20b-d6ceabe88f95" width="500" align="center">                                  |
 | ✓ restSaveController.js 에 mydb부분을 express에서 받아오는 걸로 해결                                                                                           |
 
 <br/>
