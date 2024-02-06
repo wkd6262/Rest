@@ -61,13 +61,13 @@
 
 | 로그인                                                                                                          | 프로필 업로드                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/cefae975-eba8-4128-b1bf-d804b8fdf983" width="350" > | <img src="https://github.com/wkd6262/Back2/assets/142865132/00ec6b52-ef98-447a-aa9e-887f182d93fa" width="350"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/43e8e3af-c7e4-4691-833d-f1c968fde05c" width="350" > | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/af3a260b-3f1c-4892-bb30-8c58374905fc" width="350"> |
 | 로그아웃                                                                                                        | 화장실 메인                                                                                                    |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/3aa28d72-ec07-409b-bd1e-432f9c919ad7" width="350">  | <img src="https://github.com/wkd6262/Back2/assets/142865132/9d41689b-694c-4be7-85db-4c8237dd107f" width="350"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/023f647a-f2b7-492a-8b50-163f250796aa" width="350">  | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/cd0564ea-37df-407b-8599-9878016507c3" width="350"> |
 | 길찾기                                                                                                          | 화장실 저장                                                                                                    |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/6a755567-137c-4504-8b14-18491f66a57d" width="350">  | <img src="https://github.com/wkd6262/Back2/assets/142865132/d7d55759-06db-4840-8282-71ce88b09eb1" width="350"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/c49871b2-feb0-4ac6-889e-18d697a9ad9a" width="350">  | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/d9fbd4a8-20a3-4836-b54a-1e445006cc29" width="350"> |
 | 화장실 검색                                                                                                     | 화장실 저장소 메모 수정 및 삭제                                                                                |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/ed5464a2-e98f-46ea-868f-d382e5c13a61" width="350">  | <img src="https://github.com/wkd6262/Back2/assets/142865132/3e4ba6e0-6782-4f41-a6a7-008d7f232c15" width="350"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/99447579-12d7-4100-8cce-030a7cb00aaf" width="350">  | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/23523c76-9cd4-4a37-bb02-0287963e62f8" width="350"> |
 
 </div>
 
