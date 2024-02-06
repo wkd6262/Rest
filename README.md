@@ -24,7 +24,7 @@
 
 | 급해 ui/ux 기능 참고                                                                                                               | PooPee ui/ux ,기능 참고                                                                                                             |
 | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/wkd6262/Back2/assets/142865132/b5595fa9-e6d7-4d33-94a4-073af09b9b51" width="50%" align="center"> | <img src="https://github.com/wkd6262/Back2/assets/142865132/528f236a-b1f2-4a13-a4c9-186050a65bf9" width="50%" align="center"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/f08c85b1-85c0-4397-93a5-b2095a9acc8e" width="50%" align="center"> | <img src="https://github.com/wkd6262/Back2/assets/142865132/528f236a-b1f2-4a13-a4c9-186050a65bf9" width="50%" align="center"> |
 | <img src="https://github.com/wkd6262/Back2/assets/142865132/b40dd1f7-53a0-49e5-bf00-2a02e8565a4f" width="50%" align="center"> | <img src="https://github.com/wkd6262/Back2/assets/142865132/51c8d1ce-8c1c-40b1-a2f8-8cd5d1d1d0aa" width="50%" align="center"> |
 
 
