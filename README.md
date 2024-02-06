@@ -24,8 +24,8 @@
 
 | 급해 ui/ux 기능 참고                                                                                                               | PooPee ui/ux ,기능 참고                                                                                                             |
 | :-----------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/f08c85b1-85c0-4397-93a5-b2095a9acc8e" width="50%" align="center"> | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/8c035713-45f1-48c0-8ace-8c13fefd6894" width="50%" align="center"> |
-| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/b43bb39d-4442-474e-b6f4-48c3e1e74589" width="50%" align="center"> | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/54add6f0-39c1-4224-b933-e55c0684b286" width="50%" align="center"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/f08c85b1-85c0-4397-93a5-b2095a9acc8e" width="50%" align="center"> | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/b43bb39d-4442-474e-b6f4-48c3e1e74589" width="50%" align="center"> |
+| <img src="https://github.com/wkd6262/wkd6262/assets/142865132/8c035713-45f1-48c0-8ace-8c13fefd6894" width="50%" align="center"> | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/54add6f0-39c1-4224-b933-e55c0684b286" width="50%" align="center"> |
 
 
 ### - 고려사항
