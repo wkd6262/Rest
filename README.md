@@ -70,6 +70,9 @@
 | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/99447579-12d7-4100-8cce-030a7cb00aaf" width="350">  | <img src="https://github.com/wkd6262/wkd6262/assets/142865132/23523c76-9cd4-4a37-bb02-0287963e62f8" width="350"> |
 
 </div>
+<br/>
+### [✨프로젝트 바로가기](https://port-0-back2-5r422alqn1n0hw.sel4.cloudtype.app/)(매일 8시에 서버가 꺼짐.)
+  id= admin pw= admin
 
 <br/>
 
@@ -376,5 +379,4 @@ const filterData = () => {
   
   <br>
 
-### [✨프로젝트 바로가기](https://port-0-back2-5r422alqn1n0hw.sel4.cloudtype.app/)(매일 8시에 서버가 꺼짐.)
-  id= admin pw= admin
+
